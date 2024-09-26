@@ -1,0 +1,9 @@
+sample,condition,replicate
+sample 32,normal,R1
+sample 34,normal,R2
+sample 33,treated,R1
+sample 35 ,treated,R2
+sample 36,normal,R1
+sample 38,normal,R2
+sample 37 ,treated,R1
+sample 39 ,treated,R2
